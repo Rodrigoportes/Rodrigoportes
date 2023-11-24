@@ -2,7 +2,7 @@
 ##
 
 <p align='center'>
-  Estudo desenvolvimento de softwere pelo projeto Oracle ONE - Alura
+   Sempre fui apaixonado por tecnologia, hoje, estudo Engenharia de Software no Instituto INFNET onde tenho aprimorado cada vez mais meus conhecimentos na área.
 </p>
 
 ##
