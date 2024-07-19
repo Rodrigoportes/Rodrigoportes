@@ -3,7 +3,7 @@
 
 
 <p align='center'>
-   Sempre fui apaixonado por tecnologia, hoje, estudo Engenharia de Software no Instituto INFNET onde tenho aprimorado cada vez mais meus conhecimentos na área.
+   Sempre fui apaixonado por tecnologia, hoje, estudo Engenharia de Software no Instituto INFNET onde tenho aprimorado cada vez mais meus conhecimentos e habilidades.
 </p>
 
 <div style="display: inline_block"><br>
